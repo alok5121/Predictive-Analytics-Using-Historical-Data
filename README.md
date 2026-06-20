@@ -104,13 +104,6 @@ Predictive_Analytics_Project/
 ├── models/
 
 ├── app/
-
-├── screenshots/
-
-├── requirements.txt
-
-└── README.md
-
 ---
 
 ## Future Improvements
@@ -125,7 +118,7 @@ Predictive_Analytics_Project/
 
 ## Author
 
-Alok Virat
+Alok Raj
 
 B.Tech | Data Analytics Enthusiast
 
